@@ -1,1 +1,1 @@
-<?php echo "merhaba dünya"; ?>
+<?php echo "merhaba dÃ¼nya"; ?>
